@@ -1,5 +1,5 @@
 ## 🤠 Project Ez:
-![Boothill Honkai Star Rail](https://raw.githubusercontent.com/GisatAZK2/GisatAZK2/main/boothil-hsr.gif)
+![Boothill Honkai Star Rail](https://raw.githubusercontent.com/GisatAZK2/GisatAZK2/main/boothill-hsr.gif)
 
 
 
