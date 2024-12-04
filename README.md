@@ -1,4 +1,4 @@
-## 🤤🤤:
+## 🤠 Project Ez:
 ![Honkai Star Rail](https://media.gifdb.com/honkai-star-rail-classy-aventurine-ibvqsh6wgcuk4xb0.gif)
 
 ## 🌐 Socials:
