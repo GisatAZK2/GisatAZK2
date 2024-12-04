@@ -1,5 +1,6 @@
 ## 🤠 Project Ez:
-![Honkai Star Rail](https://media.gifdb.com/honkai-star-rail-classy-aventurine-ibvqsh6wgcuk4xb0.gif)
+![Boothill Honkai Star Rail](https://raw.githubusercontent.com/GisatAZK2/GisatAZK2/boothil-hsr.gif)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gisat1986) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/gisatazk) 
