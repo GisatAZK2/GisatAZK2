@@ -1,5 +1,5 @@
 ## 🤤🤤:
-![Honkai Star Rail Firefly](https://media.gifdb.com/honkai-star-rail-firefly-gong-zu2em0ljlnjistt7.gif)
+[![Honkai Star Rail Firefly](https://media.gifdb.com/honkai-star-rail-firefly-gong-zu2em0ljlnjistt7.gif)]
 
 
 ## 🌐 Socials:
