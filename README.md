@@ -4,7 +4,7 @@
 ## 🤠 Project Ez:
 ![Boothill Honkai Star Rail](https://raw.githubusercontent.com/GisatAZK2/GisatAZK2/main/boothill-hsr.gif)
 
-
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gisat1986) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/gisatazk) 
@@ -52,4 +52,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-</div>
+
