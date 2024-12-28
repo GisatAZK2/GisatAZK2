@@ -4,8 +4,6 @@
 ## 🤠 Project Ez:
 ![Boothill Honkai Star Rail](https://raw.githubusercontent.com/GisatAZK2/GisatAZK2/main/boothill-hsr.gif)
 
-</div>
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gisat1986) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/gisatazk) 
 
@@ -19,6 +17,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=GiSATAZK2&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GiSATAZK2&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GiSATAZK2&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
+
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=GiSATAZK2&theme=radical&no-frame=false&no-bg=true&margin-w=4)
