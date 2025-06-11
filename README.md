@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 
 
 ## 🤠 Project Ez:
