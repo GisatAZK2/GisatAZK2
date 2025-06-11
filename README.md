@@ -19,9 +19,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GiSATAZK2&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
-
-</div>
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=GiSATAZK2&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
@@ -54,4 +51,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+</div>
 
